@@ -1,3 +1,5 @@
+* To run the code, unzip app/csv-dataset/zipped-datasets and place them in app/csv-dataset
+
 # youreka-2025
 
 ## Airborne Hazards and Tickborne Threats: the Link Between Air Pollution and Lyme Disease
