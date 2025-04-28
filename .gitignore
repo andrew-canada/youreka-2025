@@ -1,5 +1,5 @@
 # Some datasets are too large; zip is uploaded instead
-*.csv
+**/*.csv
 
 # History files
 .Rhistory
