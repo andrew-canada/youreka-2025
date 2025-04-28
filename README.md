@@ -1,4 +1,4 @@
-* To run the code, unzip app/csv-dataset/zipped-datasets and place them in app/csv-dataset
+\* To run the code, unzip app/csv-dataset/zipped-datasets and place them in app/csv-dataset
 
 # youreka-2025
 
